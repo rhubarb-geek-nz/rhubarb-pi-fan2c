@@ -1,5 +1,5 @@
 #
-#  Copyright 2008, Roger Brown
+#  Copyright 2021, Roger Brown
 #
 #  This file is part of rhubarb pi.
 #
@@ -16,7 +16,7 @@
 #  You should have received a copy of the GNU General Public License
 #  along with this program.  If not, see <http://www.gnu.org/licenses/>
 #
-#  $Id: Makefile 25 2021-01-19 23:12:21Z rhubarb-geek-nz $
+#  $Id: Makefile 26 2021-01-19 23:26:03Z rhubarb-geek-nz $
 
 all: fan2c
 

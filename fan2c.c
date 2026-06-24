@@ -1,6 +1,6 @@
 /**************************************************************************
  *
- *  Copyright 1989-2012, Roger Brown
+ *  Copyright 2021, Roger Brown
  *
  *  This file is part of rhubarb pi.
  *
@@ -20,7 +20,7 @@
  */
 
 /*
- * $Id: fan2c.c 25 2021-01-19 23:12:21Z rhubarb-geek-nz $
+ * $Id: fan2c.c 26 2021-01-19 23:26:03Z rhubarb-geek-nz $
  */
 
 #include <unistd.h>
